@@ -1,4 +1,6 @@
-## Hi Friends, my name is Gilbrant Roychan Kholbi 👋
+## Hi Friends, RoychanGill here.. 👋
+
+![Gilbrant Roychan Kholbi](image/Frame1.png)
 
 <!--
 **GilbrantRoychan/GilbrantRoychan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

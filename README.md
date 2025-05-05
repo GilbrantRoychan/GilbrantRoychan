@@ -17,5 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning **Java Language**
+- 🌱 I’m currently learning **[Java](https://www.java.com/en/)**
 - 🇮🇩 Iam from Indonesia
+
+###### Skill:
+
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,python,sass&theme=light)](https://skillicons.dev)
+
+###### you can found me in:
+
+![https://www.instagram.com/roychan_gill/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/gilbrant-roychan-kholbi-41953a26b/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.threads.com/@roychan_gill](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
